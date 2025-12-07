@@ -1,0 +1,70 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Model files (too large for git)
+*.pkl
+*.h5
+*.hdf5
+*.npz
+*.pt
+*.pth
+*.ckpt
+
+# Data directories (too large)
+# Uncomment if you want to exclude data
+# Drones/
+# Birds/
+# P2_DATA_TRAIN/
+# P2_DATA_TEST/
+
+# Cache files
+*.cache
+shape_codes.json
+geo_model.npz
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Test outputs
+test_results.txt
+output.txt
+
+# Jupyter Notebook
+.ipynb_checkpoints
