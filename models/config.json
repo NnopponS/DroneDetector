@@ -1,0 +1,11 @@
+{
+  "drone_folders": [
+    "C:/Users/worap/Documents/TSE/LE415/MiniProject2/DroneDetector/data/TrainData/Drone"
+  ],
+  "bird_folders": [
+    "C:/Users/worap/Documents/TSE/LE415/MiniProject2/DroneDetector/data/TrainData/Birds"
+  ],
+  "gps_train_folder": "C:\\Users\\worap\\Documents\\TSE\\LE415\\MiniProject2\\DroneDetector\\data\\gps\\P2_DATA_TRAIN",
+  "gps_test_folder": null,
+  "last_model_paths": {}
+}
