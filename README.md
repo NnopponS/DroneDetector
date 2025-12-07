@@ -155,14 +155,6 @@ The application uses a configuration manager to store:
 - The application supports both Windows and Linux platforms
 - Video processing may require significant computational resources for high-resolution videos
 
-## License
-
-[Specify your license here]
-
-## Contributing
-
-[Add contribution guidelines if applicable]
-
 ## Authors
 
-[Add author information]
+Worapon Sangsasri
